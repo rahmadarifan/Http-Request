@@ -1,0 +1,4 @@
+#Mon Nov 21 13:29:50 ICT 2016
+base.0=D\:\\MyLibrary\\Android\\Udacity\\ud853 Developing Android Apps\\HttpRequest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\MyLibrary\\Android\\Udacity\\ud853 Developing Android Apps\\HttpRequest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

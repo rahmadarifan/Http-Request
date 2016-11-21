@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="15"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="267167991577449"
+    token="3763423566302854141"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="19512" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="948" />
+    <task
+        name="verifier"
+        duration="452" />
+
+    <artifact
+        location="D:\MyLibrary\Android\Udacity\ud853 Developing Android Apps\HttpRequest\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="267167991577449"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\MyLibrary\Android\Udacity\ud853 Developing Android Apps\HttpRequest\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
